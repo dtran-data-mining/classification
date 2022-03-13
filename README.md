@@ -4,7 +4,7 @@
 
 > This assignment focuses on the implementation of the K-means clustering and K-nearest neighbors (KNN) classification algorithms.
 
-## Installation
+## Usage
 
 Open the `.ipynb` files using [Jupyter Notebook](https://jupyter.org) to run the progams.
 
