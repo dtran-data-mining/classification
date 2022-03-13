@@ -1,8 +1,8 @@
 # data-mining--classification
 
-## Assignment 2 - Classification and Clustering
+**Assignment 2 - Classification and Clustering**
 
-This assignment focuses on the implementation of the K-means clustering and K-nearest neighbors (KNN) classification algorithms.
+> This assignment focuses on the implementation of the K-means clustering and K-nearest neighbors (KNN) classification algorithms.
 
 ## Installation
 
@@ -16,7 +16,7 @@ jupyter-notebook k_means.ipynb
 jupyter-notebook knn.ipynb
 ```
 
-## Dependent Packages
+## Package Dependencies
 
 The `k_means.ipynb` file makes use of the following packages:
 
