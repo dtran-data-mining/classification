@@ -2,7 +2,7 @@
 
 **Assignment 2 - Classification and Clustering**
 
-> This assignment focuses on the implementation of the K-means clustering and K-nearest neighbors (KNN) classification algorithms.
+This assignment focuses on the implementation of the K-means clustering and K-nearest neighbors (KNN) classification algorithms.
 
 ## Usage
 
